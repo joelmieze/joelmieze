@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joel</h1>
 <h3 align="center">A passionate Full Stack Web Developer from France</h3>
 
-- 🔭 I’m currently working for [Crédit Agricole](https://www.credit-agricole.fr/)
+- 🔭 I’m currently working for [Crédit Agricole](https://www.credit-agricole.com/)
 
 - 📫 How to reach me **contact@joelmieze.fr**
 
