@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working for [Crédit Agricole](https://www.credit-agricole.fr/)
 
-- 📫 How to reach me **joel@mieze.dev**
+- 📫 How to reach me **contact@joelmieze.fr**
 
-- 📄 Know about my experiences [https://joel.mieze.dev](https://joel.mieze.dev)
+- 📄 Know about my experiences [https://joelmieze.fr](https://joelmieze.fr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/joel-mieze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joel-mieze" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joelmieze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joel-mieze" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
